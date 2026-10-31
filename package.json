@@ -1,0 +1,13 @@
+{
+  "name": "com.itkamianets.3d-unity-update",
+  "version": "0.1.0",
+  "displayName": "Unity Update",
+  "description": "Self-update for games released on GitHub: asks the repository's latest release whether a newer version exists, and on Windows downloads the installer and runs it silently so the player never has to install by hand again. Android and iOS open the release or store page.",
+  "unity": "6000.6",
+  "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  },
+  "keywords": ["update", "release", "github", "installer", "engine"],
+  "author": { "name": "IT Kamianets" }
+}

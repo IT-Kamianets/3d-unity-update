@@ -1,0 +1,14 @@
+{
+  "name": "ITKamianets.Engine.Update",
+  "rootNamespace": "ITKamianets.Engine.Update",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
